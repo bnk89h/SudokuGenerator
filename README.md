@@ -1,3 +1,4 @@
+SudokuGenerator by Brandon Kagan
 Program Overview:
 This program generates a solved Sudoku board and print it to the console. A Sudoku board has each row, column, and 3 x 3 box having numbers from 1 to 9 with no repeats. This program will generate a new board each run.
 Data Structures
